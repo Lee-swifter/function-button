@@ -19,4 +19,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="结束" />
+
+    <ProgressBar
+        android:layout_width="300dip"
+        android:layout_height="300dip"
+        android:indeterminateDrawable="@drawable/custom_progress"/>
 </LinearLayout>
