@@ -23,5 +23,5 @@
     <ProgressBar
         android:layout_width="300dip"
         android:layout_height="300dip"
-        android:indeterminateDrawable="@drawable/custom_progress"/>
+        android:indeterminateDrawable="@drawable/custom_progress_drawable"/>
 </LinearLayout>
