@@ -19,7 +19,7 @@
         android:valueType="floatType" />
     <objectAnimator
         android:duration="1333"
-        android:interpolator="@anim/linear_interpolator"
+        android:interpolator="@android:anim/linear_interpolator"
         android:propertyName="trimPathOffset"
         android:repeatCount="-1"
         android:valueFrom="0"
